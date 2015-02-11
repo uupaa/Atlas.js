@@ -1,6 +1,6 @@
 {
   "name": "uupaa.atlas.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create texture atlas.",
   "url": "https://github.com/uupaa/Atlas.js",
   "keywords": ["uupaa", "WebModule", "Unstable"],
